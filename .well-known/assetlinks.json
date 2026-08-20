@@ -9,14 +9,14 @@
       ]
     }
   },
-    {
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.mahalawu.appwifi",
-        "sha256_cert_fingerprints": [
-          "19:23:5F:7F:A1:3D:99:1A:CF:C3:73:70:4B:2A:3E:F5:EC:8A:B8:52:B6:AC:41:D0:88:11:1E:86:38:04:46:3F"
-        ]
-      }
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.mahalawu.appwifi",
+      "sha256_cert_fingerprints": [
+        "19:23:5F:7F:A1:3D:99:1A:CF:C3:73:70:4B:2A:3E:F5:EC:8A:B8:52:B6:AC:41:D0:88:11:1E:86:38:04:46:3F"
+      ]
     }
+  }
 ]
