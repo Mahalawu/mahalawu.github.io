@@ -5,9 +5,18 @@
       "namespace": "android_app",
       "package_name": "io.github.mahalawu.twa",
       "sha256_cert_fingerprints": [
-        "7A:CC:3F:19:F1:CF:C0:E8:FD:1D:35:B8:7E:BA:8B:6C:CC:9F:93:4F:A2:66:AF:81:F1:2A:73:F8:92:4F:9D:35",
         "49:7B:E1:BA:C6:0D:CF:F5:D4:B0:1C:68:BF:DF:D7:C0:62:3A:00:30:D6:D3:E3:AF:45:8B:1A:8F:4A:8B:38:10"
       ]
     }
-  }
+  },
+  [
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.mahalawu.appwifi",
+        "sha256_cert_fingerprints": ["19:23:5F:7F:A1:3D:99:1A:CF:C3:73:70:4B:2A:3E:F5:EC:8A:B8:52:B6:AC:41:D0:88:11:1E:86:38:04:46:3F"]
+      }
+    }
+  ]
 ]
