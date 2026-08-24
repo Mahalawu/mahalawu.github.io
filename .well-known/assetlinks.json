@@ -18,5 +18,15 @@
         "19:23:5F:7F:A1:3D:99:1A:CF:C3:73:70:4B:2A:3E:F5:EC:8A:B8:52:B6:AC:41:D0:88:11:1E:86:38:04:46:3F"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.mahalawu.applauncher",
+      "sha256_cert_fingerprints": [
+        "76:2F:88:D1:28:27:46:E6:55:9A:E3:B1:3F:1E:72:A2:FF:E6:4E:E1:AD:B5:5E:13:57:0A:6E:F5:EE:1B:FD:60"
+      ]
+    }
   }
 ]
