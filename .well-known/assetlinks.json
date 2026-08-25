@@ -28,5 +28,15 @@
         "E5:56:EE:3A:D3:CE:8A:C0:E5:50:6C:AD:8C:93:AD:1B:48:6E:67:82:F1:0E:88:26:30:20:11:6F:B1:29:29:86"
       ]
     }
+  },
+    {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.mahalawu.wifingrendeng",
+      "sha256_cert_fingerprints": [
+        "2F:31:4B:8F:BE:76:08:20:43:15:AB:7C:DC:BE:0E:DC:55:11:AA:6E:F2:60:E5:7A:5E:C4:F3:FA:B2:80:91:F8"
+      ]
+    }
   }
 ]
